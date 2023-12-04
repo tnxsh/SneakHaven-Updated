@@ -1,0 +1,168 @@
+.price,
+.rm200,
+.runningShoes {
+  position: absolute;
+  line-height: 93.4%;
+}
+.runningShoes {
+  top: 646px;
+  left: 37px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.price,
+.rm200 {
+  top: 26px;
+  left: 0;
+  font-weight: 800;
+}
+.price {
+  top: 0;
+  left: 5px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.rm200Parent {
+  position: absolute;
+  top: 763px;
+  left: 32px;
+  width: 154px;
+  height: 65px;
+  font-size: var(--font-size-23xl);
+}
+.thereHasNever {
+  margin: 0;
+}
+.thereHasNeverContainer {
+  position: absolute;
+  top: 687px;
+  left: 16px;
+  line-height: 111.9%;
+}
+.iphone14Pro3thShoeChild {
+  position: absolute;
+  top: 52px;
+  left: 28px;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+}
+.icon {
+  position: absolute;
+  top: 525px;
+  left: 183px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.iphone14Pro3thShoeItem {
+  position: absolute;
+  top: 767px;
+  left: 284px;
+  border-radius: 50%;
+  background: linear-gradient(170.02deg, #2db398, #00261f);
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+.iphone14Pro3thShoeInner {
+  position: absolute;
+  height: 2.88%;
+  width: 5.65%;
+  top: 93.53%;
+  right: 14.94%;
+  bottom: 3.59%;
+  left: 79.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 785px;
+  left: 339px;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod);
+  width: 10px;
+  height: 10px;
+}
+.groupIcon {
+  position: absolute;
+  height: 2.61%;
+  width: 5.65%;
+  top: 93.43%;
+  right: 38.07%;
+  bottom: 3.97%;
+  left: 56.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sneakhaven {
+  position: absolute;
+  top: calc(50% - 362px);
+  left: calc(50% - 98.5px);
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  font-family: var(--font-press-start-2p);
+  color: var(--color-black);
+  display: inline-block;
+  width: 206px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 19px;
+  right: 55px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 20px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 16px;
+  left: 21px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.image2Icon {
+  position: absolute;
+  top: 221px;
+  left: calc(50% - 178.4px);
+  width: 357.7px;
+  height: 276px;
+  object-fit: cover;
+}
+.nikeYeezy700 {
+  position: absolute;
+  top: 597px;
+  left: 8px;
+  font-size: 37px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color-black);
+  width: 399px;
+  height: 38px;
+}
+.iphone14Pro3thShoe {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,115 @@
+.logosmastercardIcon {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rhbBank {
+  position: relative;
+}
+.logosmastercardParent,
+.rhbBankParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.logosmastercardParent {
+  align-items: center;
+}
+.component10Icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameWrapper {
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 295px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.logosvisaIcon {
+  position: relative;
+  width: 32px;
+  height: 10.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.addIcon {
+  position: relative;
+  width: 18.4px;
+  height: 18.4px;
+}
+.addWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6.13px;
+  background-color: var(--color-lavender);
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.0625px;
+  box-sizing: border-box;
+}
+.vuesaxlinearadd {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearaddParent {
+  width: 165px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frameParent,
+.frameWrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs);
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+}
+.frameParent {
+  position: absolute;
+  top: 587px;
+  left: calc(50% - 165.5px);
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  padding: var(--padding-base);
+  gap: var(--gap-xs);
+  text-align: center;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+  font-family: var(--ibm-plex-sans-subtitle-2-medium-14);
+}

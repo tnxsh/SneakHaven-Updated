@@ -1,0 +1,18 @@
+.getStarted {
+  position: relative;
+}
+.property1default {
+  border-radius: var(--br-base);
+  background: linear-gradient(92.31deg, #ff5678, #4757ec);
+  width: 327px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-19xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-white);
+  font-family: var(--font-satoshi);
+}

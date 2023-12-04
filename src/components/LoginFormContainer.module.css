@@ -1,0 +1,46 @@
+.email,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.email {
+  line-height: 87.52%;
+  display: inline-block;
+  width: 46px;
+}
+.groupChild {
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 333px;
+  height: 44px;
+}
+.samanthagmailcom {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 15px;
+  line-height: 87.52%;
+  font-weight: 500;
+  display: inline-block;
+  width: 152px;
+}
+.emailParent,
+.rectangleParent {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 333px;
+  height: 44px;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+  color: var(--color-dimgray-100);
+}
+.emailParent {
+  top: 433.2px;
+  left: 30px;
+  height: 66px;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

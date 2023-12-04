@@ -1,0 +1,286 @@
+.footerIcon {
+  position: absolute;
+  top: 750px;
+  left: 0;
+  width: 393px;
+  height: 102px;
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 19px;
+  right: 50px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 15px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.iphoneStatusBar {
+  position: absolute;
+  height: 5.75%;
+  width: 99.24%;
+  top: 0.35%;
+  right: 0.76%;
+  bottom: 93.9%;
+  left: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.profile {
+  position: absolute;
+  top: 29px;
+  left: calc(50% - 30.5px);
+  font-size: var(--font-size-3xl);
+  line-height: 108.5px;
+  font-family: var(--font-inria-sans);
+  display: inline-block;
+  width: 62px;
+  height: 87px;
+}
+.iphone1415ProProfileChild {
+  position: absolute;
+  top: calc(50% - 310px);
+  left: calc(50% - 87.5px);
+  width: 171.5px;
+  height: 176px;
+}
+.rewards,
+.samantha {
+  line-height: 108.5%;
+  display: inline-block;
+}
+.samantha {
+  position: absolute;
+  top: calc(50% - 98px);
+  left: calc(50% - 54.5px);
+  width: 110px;
+  height: 12px;
+}
+.rewards {
+  top: 14px;
+  left: 13px;
+  width: 95px;
+  z-index: 0;
+}
+.available,
+.rewards,
+.vectorIcon {
+  position: absolute;
+  margin: 0 !important;
+}
+.available {
+  top: 35px;
+  left: 14.5px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-family: var(--ibm-plex-sans-subtitle-2-medium-14);
+  color: var(--neutral-700);
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 94px;
+  z-index: 1;
+}
+.vectorIcon {
+  top: 27px;
+  left: 200.7px;
+  width: 7.5px;
+  height: 1549px;
+  z-index: 2;
+}
+.rewardsParent {
+  position: absolute;
+  height: 7.86%;
+  width: 84.73%;
+  top: 67.37%;
+  right: 5.85%;
+  bottom: 24.77%;
+  left: 9.41%;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.recommended,
+.vectorIcon1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.recommended {
+  top: 12.5px;
+  left: 14px;
+  line-height: 108.5%;
+  display: inline-block;
+  width: 142px;
+  z-index: 0;
+}
+.vectorIcon1 {
+  top: 27px;
+  left: 308.7px;
+  width: 7.5px;
+  height: 13px;
+  z-index: 1;
+}
+.recommendedParent {
+  position: absolute;
+  height: 7.86%;
+  width: 84.73%;
+  top: 78.17%;
+  right: 5.85%;
+  bottom: 13.97%;
+  left: 9.41%;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.inbox,
+.viewMessages {
+  position: absolute;
+  margin: 0 !important;
+}
+.inbox {
+  top: 14.5px;
+  left: 13px;
+  line-height: 108.5%;
+  display: inline-block;
+  width: 59px;
+  z-index: 0;
+}
+.viewMessages {
+  top: 35px;
+  left: 13.5px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-family: var(--ibm-plex-sans-subtitle-2-medium-14);
+  color: var(--neutral-700);
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 94px;
+  z-index: 1;
+}
+.frameChild {
+  top: 18.5px;
+  left: 268.5px;
+  border-radius: 50%;
+  background-color: red;
+  width: 30px;
+  height: 30px;
+  z-index: 2;
+}
+.b,
+.frameChild,
+.vectorIcon2 {
+  position: absolute;
+  margin: 0 !important;
+}
+.b {
+  top: 26px;
+  left: 277px;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  font-family: var(--font-ibm-plex-mono);
+  color: var(--color-white);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.vectorIcon2 {
+  top: 27px;
+  left: 308.7px;
+  width: 7.5px;
+  height: 13px;
+  z-index: 4;
+}
+.inboxParent {
+  position: absolute;
+  height: 7.86%;
+  width: 84.73%;
+  top: 56.57%;
+  right: 5.85%;
+  bottom: 35.56%;
+  left: 9.41%;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.checkoutChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 75px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 150px;
+  height: 34px;
+}
+.editProfile {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 56px);
+  line-height: 108.5%;
+  display: inline-block;
+  width: 115px;
+  height: 12px;
+}
+.checkout {
+  position: absolute;
+  top: 358px;
+  left: calc(50% - 71.5px);
+  width: 150px;
+  height: 34px;
+  cursor: pointer;
+  color: var(--color-white);
+  font-family: var(--font-karla);
+}
+.iphone1415ProProfile {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

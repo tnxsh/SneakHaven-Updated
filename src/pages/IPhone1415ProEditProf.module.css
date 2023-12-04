@@ -1,0 +1,164 @@
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 87.52%;
+  display: inline-block;
+  width: 46px;
+  height: 13px;
+}
+.groupChild,
+.rectangleWrapper {
+  position: absolute;
+  left: 0;
+  width: 333px;
+  height: 43.2px;
+}
+.groupChild {
+  top: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+}
+.rectangleWrapper {
+  top: 21px;
+}
+.samantha {
+  position: absolute;
+  top: calc(50% + 4.7px);
+  left: 15px;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+  line-height: 87.52%;
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 100px;
+  height: 12px;
+}
+.groupItem,
+.nameParent {
+  position: absolute;
+  top: 353px;
+  left: 30px;
+  width: 333px;
+  height: 64.2px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 221px;
+  height: 45px;
+}
+.rectangleParent,
+.saveChanges {
+  position: absolute;
+  cursor: pointer;
+}
+.saveChanges {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 66.5px);
+  line-height: 87.52%;
+  font-weight: 500;
+}
+.rectangleParent {
+  top: 765.2px;
+  left: 85px;
+  width: 221px;
+  height: 45px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  color: var(--color-aliceblue-100);
+}
+.frameChild {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-aliceblue-100);
+  width: 40px;
+  height: 40px;
+  z-index: 0;
+}
+.arrowLeftIcon {
+  position: absolute;
+  margin: 0 !important;
+  top: 8.9px;
+  left: 8.9px;
+  width: 21.3px;
+  height: 21.3px;
+  z-index: 1;
+}
+.ellipseParent {
+  position: absolute;
+  top: 59px;
+  left: 30px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+}
+.editProfile,
+.iphone1415ProEditProfChild {
+  position: absolute;
+  top: calc(50% - 327px);
+  left: calc(50% - 85.5px);
+  width: 171.5px;
+  height: 176px;
+}
+.editProfile {
+  top: calc(50% - 366px);
+  left: calc(50% - 65.5px);
+  font-size: var(--font-size-3xl);
+  line-height: 108.5%;
+  font-family: var(--font-inria-sans);
+  display: inline-block;
+  width: 132px;
+  height: 12px;
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 19px;
+  right: 50px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 15px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.iphoneStatusBar {
+  position: absolute;
+  height: 5.75%;
+  width: 99.24%;
+  top: 0.35%;
+  right: 0.76%;
+  bottom: 93.9%;
+  left: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.iphone1415ProEditProf {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

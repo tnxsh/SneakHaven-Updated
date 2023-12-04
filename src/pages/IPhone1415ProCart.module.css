@@ -1,0 +1,217 @@
+.checkoutChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 330px;
+  height: 60px;
+}
+.goBackIcon {
+  position: absolute;
+  height: 20.83%;
+  width: 4.79%;
+  top: 37.83%;
+  right: 7.03%;
+  bottom: 41.33%;
+  left: 88.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checkout1,
+.rm180 {
+  position: absolute;
+  line-height: 100%;
+}
+.checkout1 {
+  top: 31.67%;
+  left: 58.18%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.rm180 {
+  top: 22px;
+  left: 23px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.02em;
+  font-family: var(--font-numans);
+  text-align: left;
+}
+.checkout {
+  position: absolute;
+  top: 674px;
+  left: 29px;
+  width: 330px;
+  height: 60px;
+  cursor: pointer;
+}
+.quantityChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-darkslategray-100);
+  width: 150px;
+  height: 40px;
+}
+.youHave1 {
+  position: absolute;
+  height: 26.75%;
+  width: 83.6%;
+  top: 26.75%;
+  left: 6.33%;
+  letter-spacing: 0.02em;
+  line-height: 100%;
+  display: inline-block;
+}
+.quantity {
+  position: absolute;
+  top: 119px;
+  left: 2px;
+  width: 150px;
+  height: 40px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-open-sans);
+}
+.headingIcon {
+  position: absolute;
+  height: 4.23%;
+  width: 87.28%;
+  top: 7.16%;
+  right: 6.87%;
+  bottom: 88.62%;
+  left: 5.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 19px;
+  right: 50px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 15px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.iphoneStatusBar {
+  position: absolute;
+  height: 5.75%;
+  width: 99.24%;
+  top: 0.47%;
+  right: 0.25%;
+  bottom: 93.78%;
+  left: 0.51%;
+  overflow: hidden;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.basketballShoes {
+  position: absolute;
+  top: 206px;
+  left: 138px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 93.4%;
+  font-weight: 500;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+}
+.icon {
+  position: absolute;
+  top: 164.7px;
+  left: 0;
+  width: 153.3px;
+  height: 182.5px;
+  object-fit: cover;
+}
+.bottomSectionChild,
+.bottomSectionItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-darkslategray-100);
+  width: 393px;
+  height: 115px;
+}
+.bottomSectionItem {
+  top: 43px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-white);
+  height: 43px;
+}
+.bottomSection,
+.shoppingCart {
+  position: absolute;
+  top: 747px;
+  left: 0;
+  width: 393px;
+  height: 115px;
+}
+.shoppingCart {
+  height: 2.58%;
+  width: 39.19%;
+  top: 8.22%;
+  left: 30.28%;
+  font-size: var(--font-size-3xl);
+  line-height: 108.5%;
+  font-family: var(--font-inder);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.arrowLeftIcon {
+  position: absolute;
+  margin: 0 !important;
+  top: 8.9px;
+  left: 8.9px;
+  width: 21.3px;
+  height: 21.3px;
+  z-index: 0;
+}
+.frameChild {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  z-index: 1;
+}
+.arrowLeftParent {
+  position: absolute;
+  top: calc(50% - 373px);
+  left: calc(50% - 180.5px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.iphone1415ProCart {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 19px;
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

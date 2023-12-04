@@ -1,0 +1,57 @@
+.bikeIcon {
+  position: absolute;
+  top: 126px;
+  left: 62px;
+  width: 270px;
+  height: 132px;
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 19px;
+  right: 50px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 15px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+}
+.iphoneStatusBar {
+  position: absolute;
+  height: 5.75%;
+  width: 99.24%;
+  top: 0.35%;
+  right: 0.76%;
+  bottom: 93.9%;
+  left: 0;
+  overflow: hidden;
+}
+.footerIcon {
+  position: absolute;
+  top: 750px;
+  left: 0;
+  width: 393px;
+  height: 102px;
+}
+.iphone1415ProShip {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

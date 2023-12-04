@@ -1,0 +1,54 @@
+.dateOfBirth,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.dateOfBirth {
+  line-height: 87.52%;
+  display: inline-block;
+  width: 99px;
+}
+.groupChild {
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 333px;
+  height: 44px;
+}
+.materialSymbolsarrowBackIoIcon {
+  position: absolute;
+  top: 8px;
+  left: 294.1px;
+  width: 19.5px;
+  height: 20px;
+  overflow: hidden;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 15px;
+  line-height: 87.52%;
+  font-weight: 500;
+  display: inline-block;
+  width: 83px;
+}
+.dateOfBirthParent,
+.rectangleParent {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 333px;
+  height: 44px;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+  color: var(--color-dimgray-100);
+}
+.dateOfBirthParent {
+  top: 597.2px;
+  left: 30px;
+  height: 66px;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

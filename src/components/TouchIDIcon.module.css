@@ -1,0 +1,9 @@
+.touchIdIcon {
+  position: absolute;
+  top: 599px;
+  left: 165px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  cursor: pointer;
+}

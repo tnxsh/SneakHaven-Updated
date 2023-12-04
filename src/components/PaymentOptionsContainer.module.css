@@ -1,0 +1,110 @@
+.orderSummary {
+  position: relative;
+}
+.size7Uk,
+.zoomFreak {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 18px;
+}
+.zoomFreak {
+  width: 192px;
+  flex-shrink: 0;
+}
+.size7Uk {
+  flex: 1;
+}
+.orderSummaryParent,
+.qty1Parent,
+.zoomFreakParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.qty1Parent {
+  align-self: stretch;
+  flex-direction: row;
+}
+.orderSummaryParent,
+.zoomFreakParent {
+  flex-direction: column;
+}
+.zoomFreakParent {
+  text-align: left;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+}
+.orderSummaryParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameWrapper {
+  position: absolute;
+  top: 0;
+  left: 103px;
+  width: 192px;
+  height: 62px;
+}
+.rm18000 {
+  position: relative;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+}
+.totalAmountParent {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  width: 295px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+}
+.icon,
+.wrapper {
+  position: absolute;
+}
+.icon {
+  top: -10px;
+  left: -40px;
+  width: 182.5px;
+  height: 182.5px;
+  object-fit: cover;
+}
+.wrapper {
+  top: -17.3px;
+  left: -4.3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 102.5px;
+  height: 102.5px;
+}
+.frameParent {
+  position: relative;
+  width: 295px;
+  height: 120px;
+}
+.iphone1415ProProceedOInner {
+  position: absolute;
+  top: 115px;
+  left: calc(50% - 162.5px);
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 321px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+  text-align: center;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+  color: var(--color-black);
+  font-family: var(--ibm-plex-sans-subtitle-2-medium-14);
+}

@@ -1,0 +1,16 @@
+.shipOrder {
+  position: absolute;
+  top: 23px;
+  left: 68px;
+}
+.property1default {
+  border-radius: var(--br-9xl);
+  background-color: #070b0f;
+  width: 230px;
+  height: 69px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

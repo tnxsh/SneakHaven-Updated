@@ -1,0 +1,237 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 852px;
+  object-fit: cover;
+}
+.iphone1415ProSignUpChild {
+  position: absolute;
+  top: 236px;
+  left: 17px;
+  border-radius: var(--br-11xl);
+  background-color: rgba(241, 241, 241, 0.7);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.25);
+  width: 359px;
+  height: 475px;
+}
+.signup {
+  position: absolute;
+  top: 9px;
+  left: 210px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 135px;
+  height: 18px;
+}
+.slidersIcon,
+.superiorChild {
+  position: absolute;
+  top: 52.5px;
+  left: 0;
+  width: 359px;
+  height: 1px;
+}
+.slidersIcon {
+  top: 0;
+  left: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.signin {
+  position: absolute;
+  top: 9px;
+  left: 49px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 62px;
+  height: 18px;
+  cursor: pointer;
+}
+.superior {
+  position: absolute;
+  top: 246px;
+  left: 17px;
+  width: 359px;
+  height: 53px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  color: var(--color-black);
+}
+.inputEmailChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgray);
+  width: 316px;
+  height: 62px;
+}
+.email {
+  position: absolute;
+  top: 22px;
+  left: 13px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 62px;
+  height: 18px;
+}
+.inputEmail {
+  position: absolute;
+  top: 332px;
+  left: 38px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+}
+.password {
+  position: absolute;
+  top: 22px;
+  left: 21px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 76px;
+  height: 18px;
+}
+.inputSenha {
+  position: absolute;
+  top: 483px;
+  left: 38px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+}
+.userName {
+  position: absolute;
+  top: 22px;
+  left: 14px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 107px;
+  height: 18px;
+}
+.inputSenha1 {
+  position: absolute;
+  top: 405px;
+  left: 37px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+}
+.confirmThePassword {
+  position: absolute;
+  top: 22px;
+  left: 14px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 183px;
+  height: 18px;
+}
+.inputSenha2 {
+  position: absolute;
+  top: 566px;
+  left: 38px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+}
+.submitChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  width: 132px;
+  height: 40px;
+}
+.submit1 {
+  top: 8px;
+  left: 31px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 70px;
+  height: 16px;
+}
+.or,
+.submit,
+.submit1 {
+  position: absolute;
+}
+.submit {
+  top: 653px;
+  left: 130px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 132px;
+  height: 40px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.or {
+  top: 637px;
+  left: 189px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  letter-spacing: 0.04em;
+  display: inline-block;
+  color: #9e9e9e;
+  width: 13px;
+  height: 15px;
+}
+.iphone1415ProSignUpInner,
+.iphone1415ProSignUpItem {
+  position: absolute;
+  top: 644.5px;
+  left: 205px;
+  width: 170px;
+  height: 1px;
+}
+.iphone1415ProSignUpInner {
+  left: 16px;
+  width: 169px;
+}
+.sneakhaven {
+  position: absolute;
+  top: calc(50% - 265px);
+  left: calc(50% - 150.5px);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-press-start-2p);
+  color: var(--color-white);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.batteryIcon,
+.wifiIcon {
+  position: absolute;
+  top: 20px;
+  right: 56px;
+  width: 18px;
+  height: 13px;
+}
+.batteryIcon {
+  right: 21px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.iphone1415ProSignUp {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}

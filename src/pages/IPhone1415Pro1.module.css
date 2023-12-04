@@ -1,0 +1,279 @@
+.iphone1415Pro1Child {
+  position: absolute;
+  top: 233px;
+  left: 6px;
+  border-radius: var(--br-11xl);
+  width: 379px;
+  height: 475px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 852px;
+  object-fit: cover;
+}
+.iphone1415Pro1Item {
+  position: absolute;
+  top: 233px;
+  left: 6px;
+  border-radius: var(--br-11xl);
+  width: 379px;
+  height: 570px;
+}
+.signin,
+.signup {
+  position: absolute;
+  top: 6px;
+  left: 54px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 62px;
+  height: 18px;
+}
+.signup {
+  left: 210px;
+  width: 135px;
+  cursor: pointer;
+}
+.slidersIcon,
+.superiorChild {
+  position: absolute;
+  top: 49.5px;
+  left: 0;
+  width: 359px;
+  height: 1px;
+}
+.slidersIcon {
+  top: 0;
+  left: 161px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.superior {
+  position: absolute;
+  top: 250px;
+  left: 16px;
+  width: 359px;
+  height: 50px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+}
+.inputEmailChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgray);
+  width: 316px;
+  height: 62px;
+}
+.email {
+  position: absolute;
+  top: 22px;
+  left: 13px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 62px;
+  height: 18px;
+}
+.inputEmail {
+  position: absolute;
+  top: 333px;
+  left: 37px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+  color: var(--color-gray-200);
+}
+.password {
+  position: absolute;
+  top: 22px;
+  left: 21px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 76px;
+  height: 18px;
+}
+.inputSenha {
+  position: absolute;
+  top: 416px;
+  left: 37px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 316px;
+  height: 62px;
+  color: var(--color-gray-200);
+}
+.submitChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  width: 132px;
+  height: 40px;
+}
+.login,
+.submit,
+.submitChild {
+  position: absolute;
+}
+.login {
+  top: 9.4px;
+  left: 40.4px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 51.2px;
+  height: 15.3px;
+}
+.submit {
+  top: 496px;
+  left: 129px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 132px;
+  height: 40px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.forgotYourPassword,
+.or {
+  position: absolute;
+  top: 674px;
+  left: 189px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 13px;
+  height: 15px;
+}
+.forgotYourPassword {
+  top: 551px;
+  left: 128px;
+  color: #5b5b5b;
+  width: 135px;
+  height: 12px;
+}
+.iphone1415Pro1Inner,
+.lineIcon,
+.or1 {
+  position: absolute;
+  top: 681.5px;
+  left: 205px;
+  width: 170px;
+  height: 1px;
+}
+.lineIcon,
+.or1 {
+  left: 16px;
+  width: 169px;
+}
+.or1 {
+  top: 572px;
+  left: 190px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 13px;
+  height: 15px;
+}
+.guestChild,
+.iphone1415Pro1Child1,
+.iphone1415Pro1Child2 {
+  position: absolute;
+  top: 579.5px;
+  left: 206px;
+  width: 170px;
+  height: 1px;
+}
+.guestChild,
+.iphone1415Pro1Child2 {
+  left: 17px;
+  width: 169px;
+}
+.guestChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgray);
+  width: 236px;
+  height: 62px;
+}
+.continueAsGuest {
+  position: absolute;
+  top: 22px;
+  left: 48px;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 142px;
+  height: 18px;
+}
+.guest,
+.image6 {
+  position: absolute;
+  top: 7px;
+  left: 10px;
+  width: 47px;
+  height: 47px;
+}
+.guest {
+  top: 707px;
+  left: 77px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  width: 236px;
+  height: 62px;
+  cursor: pointer;
+  color: var(--color-gray-200);
+}
+.sneakhaven {
+  position: absolute;
+  top: calc(50% - 265px);
+  left: calc(50% - 150.5px);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-press-start-2p);
+  color: var(--color-white);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.wifiIcon {
+  position: absolute;
+  top: 18px;
+  right: 56px;
+  width: 18px;
+  height: 13px;
+}
+.receptionIcon {
+  position: relative;
+  width: 20px;
+  height: 12.1px;
+}
+.batteryIcon {
+  position: absolute;
+  top: 18px;
+  right: 21px;
+  width: 30px;
+  height: 13.1px;
+}
+.div {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-size: var(--font-size-mid);
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.iphone1415Pro1 {
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--ibm-plex-sans-body-1-regular-16-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

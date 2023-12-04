@@ -1,0 +1,226 @@
+.morePopular {
+  position: absolute;
+  top: 0;
+  left: 139.5px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 135px;
+  height: 18px;
+}
+.tenis1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 112.9px;
+  height: 102.1px;
+}
+.nikeGreen {
+  position: absolute;
+  top: 71.7px;
+  left: 22.6px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 67.8px;
+  height: 8.8px;
+}
+.tenis1,
+.tenis2Child {
+  position: absolute;
+  top: 49.1px;
+  left: 19.6px;
+  width: 112.9px;
+  height: 102.1px;
+}
+.tenis2Child {
+  top: 21.6px;
+  left: 15.7px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.nikeYeezy {
+  position: absolute;
+  top: 93.3px;
+  left: 38.3px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 67.8px;
+  height: 8.8px;
+}
+.image3Icon {
+  position: absolute;
+  top: -8px;
+  left: -4px;
+  width: 138px;
+  height: 108.2px;
+  object-fit: cover;
+}
+.tenis2 {
+  position: absolute;
+  top: 27.5px;
+  left: 133.6px;
+  width: 130px;
+  height: 123.8px;
+  cursor: pointer;
+}
+.tenis3Child {
+  position: absolute;
+  top: 21.6px;
+  left: 17.7px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 112.9px;
+  height: 102.1px;
+}
+.nikeYeezy700 {
+  position: absolute;
+  top: 93.5px;
+  left: 29.2px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 89px;
+  height: 9px;
+}
+.image2Icon {
+  position: absolute;
+  top: -8px;
+  left: -4px;
+  width: 144.2px;
+  height: 110.5px;
+  object-fit: cover;
+}
+.tenis3 {
+  position: absolute;
+  top: 27.5px;
+  left: 261.3px;
+  width: 136.2px;
+  height: 123.8px;
+  cursor: pointer;
+}
+.tenis4Child {
+  position: absolute;
+  top: 23.6px;
+  left: 19.6px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 112.9px;
+  height: 102.1px;
+}
+.adidasBoost {
+  position: absolute;
+  top: 95.3px;
+  left: 27.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 97.2px;
+  height: 8.8px;
+}
+.image5Icon {
+  position: absolute;
+  top: -8px;
+  left: 11.5px;
+  width: 133.9px;
+  height: 117.3px;
+  object-fit: cover;
+}
+.tenis4 {
+  position: absolute;
+  top: 172.9px;
+  left: 0;
+  width: 141.4px;
+  height: 125.7px;
+  cursor: pointer;
+}
+.tenis5Child {
+  position: absolute;
+  top: 41.3px;
+  left: 33.4px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 112.9px;
+  height: 102.1px;
+}
+.pharrellXNmd {
+  position: absolute;
+  top: 112.8px;
+  left: 50.6px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 79px;
+  height: 9px;
+}
+.tenis5Icon {
+  position: absolute;
+  top: -8px;
+  left: -4px;
+  width: 172.8px;
+  height: 145.3px;
+  object-fit: cover;
+}
+.tenis5 {
+  position: absolute;
+  top: 155.2px;
+  left: 115.9px;
+  width: 164.8px;
+  height: 143.4px;
+  cursor: pointer;
+}
+.tenis6Child {
+  position: absolute;
+  top: 16.7px;
+  left: 7.9px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 112.9px;
+  height: 102.1px;
+}
+.yeezyDesert {
+  position: absolute;
+  top: 88.4px;
+  left: 26.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 76.6px;
+  height: 8.8px;
+}
+.image4Icon {
+  position: absolute;
+  top: -8px;
+  left: -4px;
+  width: 129.2px;
+  height: 96.8px;
+  object-fit: cover;
+}
+.tenis6 {
+  position: absolute;
+  top: 179.7px;
+  left: 271.1px;
+  width: 121.2px;
+  height: 118.8px;
+  cursor: pointer;
+}
+.secondSection {
+  position: absolute;
+  top: 340px;
+  left: -11.5px;
+  width: 397.5px;
+  height: 298.6px;
+  text-align: center;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

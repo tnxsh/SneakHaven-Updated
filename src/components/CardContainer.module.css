@@ -1,0 +1,103 @@
+.orderSummary {
+  position: relative;
+}
+.jordanRetro6,
+.size7Uk {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 18px;
+}
+.jordanRetro6 {
+  width: 192px;
+  flex-shrink: 0;
+}
+.size7Uk {
+  flex: 1;
+}
+.jordanRetro6GParent,
+.orderSummaryParent,
+.qty1Parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.qty1Parent {
+  align-self: stretch;
+  flex-direction: row;
+}
+.jordanRetro6GParent,
+.orderSummaryParent {
+  flex-direction: column;
+}
+.jordanRetro6GParent {
+  text-align: left;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+}
+.orderSummaryParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameWrapper {
+  position: absolute;
+  top: 0;
+  left: 103px;
+  width: 192px;
+  height: 62px;
+}
+.rm19200 {
+  position: relative;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+}
+.totalAmountParent {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  width: 295px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+}
+.image83Icon {
+  position: absolute;
+  top: 1px;
+  left: calc(50% - 154.5px);
+  width: 100px;
+  height: 64.1px;
+  object-fit: cover;
+}
+.frameParent {
+  position: relative;
+  width: 295px;
+  height: 120px;
+}
+.iphone1415ProWishlistInner {
+  position: absolute;
+  height: 17.84%;
+  width: 84.73%;
+  top: 16.43%;
+  right: 7.63%;
+  bottom: 65.73%;
+  left: 7.63%;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+  text-align: center;
+  font-size: var(--ibm-plex-sans-subtitle-2-medium-14-size);
+  color: var(--color-black);
+  font-family: var(--ibm-plex-sans-subtitle-2-medium-14);
+}
